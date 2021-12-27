@@ -26,7 +26,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -45,6 +45,9 @@
       <option name="presentableId" value="Default" />
       <updated>1639698129798</updated>
       <workItem from="1639699206254" duration="1650000" />
+      <workItem from="1640582210477" duration="7024000" />
+      <workItem from="1640590724220" duration="18000" />
+      <workItem from="1640590807197" duration="14000" />
     </task>
     <servers />
   </component>
